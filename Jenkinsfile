@@ -39,5 +39,5 @@ archiveArtifacts 'target/*.jar'
 
 }
 
-
+}
 }
