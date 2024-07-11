@@ -39,7 +39,6 @@ archiveArtifacts 'target/*.jar'
 
 }
 
-}
 
 stage('Build Image') {
 
@@ -78,4 +77,4 @@ sh '''
 }
 
 }
-
+}
