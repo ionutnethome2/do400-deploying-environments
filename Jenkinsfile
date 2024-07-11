@@ -21,6 +21,7 @@ sh './mvnw clean test'
 }
 
 }
+}
 
 stage('Package') {
 
@@ -77,4 +78,4 @@ sh '''
 }
 
 }
-}
+
